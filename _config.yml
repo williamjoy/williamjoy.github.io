@@ -1,0 +1,8 @@
+title: Williamjoy.github.io
+description: http://williamjoy.github.io
+google_analytics: UA-50552473-1
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
